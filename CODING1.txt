@@ -1,0 +1,16 @@
+public static void main(String[] args) {
+	System.out.println("Assalamualaikum");
+        System.out.println("Perkenalkan ");
+        System.out.print("Nama       :");
+        System.out.println("Ahmad Aminullah Salam");
+        System.out.print("NIM        :");
+        System.out.println("E31200355");
+        System.out.print("Jurusan    :");
+        System.out.println("Teknik Informasi");
+        System.out.print("Prodi      :");
+        System.out.println("D3 Manajemen Informatika");
+        System.out.print("Golongan   :");
+        System.out.println("A");
+        System.out.println("Terima Kasih")     
+    }
+}
